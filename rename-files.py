@@ -13,8 +13,11 @@ def renaming_files():
 
     # rename all files
     for filename in file_lists:
-        os.rename(filename, filename.translate("0123456789"))
+        os.rename(filename, filename.translate(filename.maketrans('', '', '1234567890')))
+        print(filename)
+        print(filename.translate(filename.maketrans('', '', '1234567890')))
     os.chdir(saved_path)
     
 renaming_files()
     
+ 
