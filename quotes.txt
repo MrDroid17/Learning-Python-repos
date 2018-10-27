@@ -1,0 +1,69 @@
+Don't worry about what anybody else is going to do. The best way to
+predict the future is to invent it.
+-- Alan Kay
+
+Premature optimization is the root of all evil (or at least most of it)
+in programming.
+-- Donald Knuth
+
+Keep away from people who try to belittle your ambitions. Small people
+always do that, but the really great make you feel that you, too, can
+become great.
+-- Mark Twain
+
+No problem should ever have to be solved twice.
+-- Eric S. Raymond, How to become a hacker
+
+Attitude is no substitute for competence.
+-- Eric S. Raymond, How to become a hacker
+
+It is said that the real winner is the one who lives in today but able
+to see tomorrow.
+-- Juan Meng, Reviewing "The future of ideas" by Lawrence Lessig
+
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it.
+Geniuses remove it.
+-- Alan J. Perlis (Epigrams in programming)
+
+A year spent in artificial intelligence is enough to make one believe in
+God.
+-- Alan J. Perlis (Epigrams in programming)
+
+Within a computer natural language is unnatural.
+-- Alan J. Perlis (Epigrams in programming)
+
+Adapting old programs to fit new machines usually means adapting new
+machines to behave like old ones.
+-- Alan J. Perlis (Epigrams in programming)
+
+A little learning is a dangerous thing.
+-- Alexander Pope
+
+Computer science education cannot make anybody an expert programmer any
+more than studying brushes and pigment can make somebody an expert
+painter.
+-- Eric Raymond
+
+Einstein argued that there must be simplified explanations of nature,
+because God is not capricious or arbitrary.
+-- Frederick P. Brooks, No Sliver Bullet.
+
+Students should be evaluated on how well they can achieve the goals they
+strived to achieve within a realistic context. Students need to learn to
+do things, not know things.
+-- Roger Schank, Engines for Education
+
+We remember what we learn when we care about performing better and when
+we believe that what we have been asked to do is representative of
+reality.
+-- Roger Schank, Engines for Education
+
+There really is no learning without doing.
+-- Roger Schank, Engines for Education
+
+We really have to get over the idea that some stuff is just worth
+knowing even if you never do anything with it. Human memories happily
+erase stuff that has no purpose, so why try to fill up children's heads
+with such stuff?
+-- Roger Schank, Engines for Education
+

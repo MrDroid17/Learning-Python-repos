@@ -3,7 +3,7 @@ import turtle
 
 def drawSquare(some_turtle):
     for i in range(1,5):
-        some_turtle.speed(4)
+        some_turtle.speed(10)
         some_turtle.forward(100);         
         some_turtle.color('yellow')
         some_turtle.right(90)             
@@ -22,3 +22,4 @@ def drawArt():
     window.exitonclick()
         
 drawArt()
+
