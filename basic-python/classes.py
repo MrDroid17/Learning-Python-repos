@@ -20,7 +20,37 @@ class Person():
     def get_email(self):
         return self.__email
 
+    # formatted string
+    def toString(self):
+        return '{} can be contacted at {}'.format(self.__name, self.__email)
+
 # using class
 sobhit = Person('Sobhit Kumar', 'random@email.com')
 print('Name:', sobhit.get_name())
 print('Email:', sobhit.get_email())
+print(sobhit.toString())
+
+# inheritance
+class Customer(Person):
+    __balance = 0
+
+    def __init__(self, name, email, balance):
+        self.__name = name
+        self.__email = email
+        self.__balance = balance
+        super(Customer, self).__init__(name, email)
+
+    def set_balance(self, balance):
+        self.__balance = balance
+
+    def get_balance(self):
+        return self.__balance
+
+    def toString(self):
+        return '{} has balance of {} and can be contacted at {}'.format(self.__name, self.__balance, self.__email)
+
+droid = Customer('Mrdroid17', 'mrdroid@github.com', 100)
+print(droid.toString())
+
+droid.set_balance(500)
+print(droid.toString())
