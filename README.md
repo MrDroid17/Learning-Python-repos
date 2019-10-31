@@ -1,4 +1,4 @@
-# Learning-Python-repos
+# Learning Python
 Learning basic of python like data type, list, dictionary, function, class, turtle, interface.
 
 ## Note:
