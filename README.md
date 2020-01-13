@@ -31,6 +31,14 @@ dictionary = {'one': 1, 'two': 2, 'three': 3}
 variable_with_zero_data = None
 ```
 
+#### NOTE: 
+Both lists and tuples are sequence data types that can store a collection of items. <br />
+**Difference:** <br />
+**lists** ---> **mutable** whereas <br />
+**tuple** ---> *immutable*.<br />
+A mutable data type means that a python object of this type can be modified.
+
+
 ## Simple Logging
 ```python
 print "Printed!"
