@@ -46,12 +46,13 @@ print "Printed!"
 
 ## Conditionals
 ```python
+cake = "okay"
 if cake == "delicious":
-    return "Yes please!"
+    print("Yes please!")   
 elif cake == "okay":
-    return "I'll have a small piece."
+    print("I'll have a small piece.")   
 else:
-    return "No, thank you."
+    print("No, thank you.")
 ```
 
 ## Loops
