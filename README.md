@@ -65,6 +65,17 @@ while (total < max_val):
     i += 2
 ```
 
+## Range
+There are three ways you can call range() :
+* range(stop) takes one argument.
+* range(start, stop) takes two arguments.
+* range(start, stop, step) takes three arguments.
+```
+for i in range(2, 10, 2):
+    print(i)
+print('Goodbye!')
+```
+
 ## Functions
 ```python
 def divide(dividend, divisor):
